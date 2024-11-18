@@ -1,0 +1,1469 @@
+[
+  {
+    "date": "2024-07-14T23:15:42Z",
+    "amount": 30297,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "166828248",
+    "industry": "Hotelaria",
+    "state": "RS"
+  },
+  {
+    "date": "2024-11-29T22:03:29Z",
+    "amount": 79539,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "263579724",
+    "industry": "Energia",
+    "state": "PA"
+  },
+  {
+    "date": "2024-04-10T08:29:41Z",
+    "amount": 51084,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "113091363",
+    "industry": "Construção",
+    "state": "RO"
+  },
+  {
+    "date": "2024-12-06T20:16:56Z",
+    "amount": 84548,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "932011565",
+    "industry": "Hotelaria",
+    "state": "AM"
+  },
+  {
+    "date": "2024-07-24T18:21:43Z",
+    "amount": 19613,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "123552945",
+    "industry": "Tecnologia",
+    "state": "PI"
+  },
+  {
+    "date": "2024-05-02T21:10:47Z",
+    "amount": 12971,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "886048385",
+    "industry": "Hotelaria",
+    "state": "PI"
+  },
+  {
+    "date": "2024-06-04T04:02:04Z",
+    "amount": 87902,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "356377365",
+    "industry": "Hotelaria",
+    "state": "BA"
+  },
+  {
+    "date": "2024-11-30T23:48:55Z",
+    "amount": 88802,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "243819115",
+    "industry": "Varejo",
+    "state": "GO"
+  },
+  {
+    "date": "2024-02-11T16:18:01Z",
+    "amount": 95125,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "286612216",
+    "industry": "Telecomunicações",
+    "state": "RS"
+  },
+  {
+    "date": "2024-08-09T04:53:09Z",
+    "amount": 86239,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "786375822",
+    "industry": "Telecomunicações",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-10-11T18:47:35Z",
+    "amount": 92541,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "387379729",
+    "industry": "Transportes",
+    "state": "SC"
+  },
+  {
+    "date": "2024-02-08T18:45:17Z",
+    "amount": 38337,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "908276767",
+    "industry": "Saúde",
+    "state": "AL"
+  },
+  {
+    "date": "2024-07-03T02:19:49Z",
+    "amount": 88596,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "822434925",
+    "industry": "Agronegócio",
+    "state": "PR"
+  },
+  {
+    "date": "2024-11-02T14:14:01Z",
+    "amount": 90944,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "388043042",
+    "industry": "Energia",
+    "state": "MG"
+  },
+  {
+    "date": "2024-11-21T14:43:09Z",
+    "amount": 75090,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "904645875",
+    "industry": "Hotelaria",
+    "state": "CE"
+  },
+  {
+    "date": "2024-01-17T14:35:26Z",
+    "amount": 53439,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "736082117",
+    "industry": "Educação",
+    "state": "GO"
+  },
+  {
+    "date": "2024-04-04T19:20:24Z",
+    "amount": 87456,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "400344517",
+    "industry": "Tecnologia",
+    "state": "MT"
+  },
+  {
+    "date": "2024-12-18T19:36:30Z",
+    "amount": 48757,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "217330099",
+    "industry": "Turismo",
+    "state": "RS"
+  },
+  {
+    "date": "2024-01-15T12:36:20Z",
+    "amount": 14701,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "979329739",
+    "industry": "Agronegócio",
+    "state": "PI"
+  },
+  {
+    "date": "2024-05-15T23:51:26Z",
+    "amount": 73889,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "489279198",
+    "industry": "Turismo",
+    "state": "SP"
+  },
+  {
+    "date": "2024-01-16T07:53:07Z",
+    "amount": 7742,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "739712099",
+    "industry": "Construção",
+    "state": "GO"
+  },
+  {
+    "date": "2024-05-25T00:33:13Z",
+    "amount": 40293,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "946276533",
+    "industry": "Saúde",
+    "state": "RO"
+  },
+  {
+    "date": "2024-03-06T07:59:08Z",
+    "amount": 98528,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "600109166",
+    "industry": "Agronegócio",
+    "state": "SE"
+  },
+  {
+    "date": "2024-05-15T07:44:36Z",
+    "amount": 13662,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "686722170",
+    "industry": "Educação",
+    "state": "PI"
+  },
+  {
+    "date": "2024-12-13T21:37:57Z",
+    "amount": 84408,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "722734934",
+    "industry": "Varejo",
+    "state": "AM"
+  },
+  {
+    "date": "2024-05-18T21:59:24Z",
+    "amount": 46679,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "315955636",
+    "industry": "Transportes",
+    "state": "PE"
+  },
+  {
+    "date": "2024-11-04T03:55:08Z",
+    "amount": 55844,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "113607718",
+    "industry": "Agronegócio",
+    "state": "AM"
+  },
+  {
+    "date": "2024-12-19T22:24:45Z",
+    "amount": 43518,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "723946902",
+    "industry": "Energia",
+    "state": "RS"
+  },
+  {
+    "date": "2024-01-25T11:26:00Z",
+    "amount": 21926,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "899632542",
+    "industry": "Varejo",
+    "state": "SC"
+  },
+  {
+    "date": "2024-08-24T12:47:03Z",
+    "amount": 47189,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "837245128",
+    "industry": "Construção",
+    "state": "MT"
+  },
+  {
+    "date": "2024-11-01T10:59:22Z",
+    "amount": 84944,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "296448039",
+    "industry": "Tecnologia",
+    "state": "SE"
+  },
+  {
+    "date": "2024-04-04T22:39:43Z",
+    "amount": 37181,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "404118225",
+    "industry": "Turismo",
+    "state": "AM"
+  },
+  {
+    "date": "2024-10-12T00:09:16Z",
+    "amount": 90670,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "487961409",
+    "industry": "Energia",
+    "state": "SC"
+  },
+  {
+    "date": "2024-09-29T05:23:51Z",
+    "amount": 15082,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "833824307",
+    "industry": "Tecnologia",
+    "state": "PR"
+  },
+  {
+    "date": "2024-03-16T14:51:35Z",
+    "amount": 28208,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "651092997",
+    "industry": "Telecomunicações",
+    "state": "GO"
+  },
+  {
+    "date": "2024-03-15T14:24:41Z",
+    "amount": 93224,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "241902288",
+    "industry": "Agronegócio",
+    "state": "AL"
+  },
+  {
+    "date": "2024-10-03T20:59:57Z",
+    "amount": 19213,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "130802927",
+    "industry": "Transportes",
+    "state": "CE"
+  },
+  {
+    "date": "2024-09-17T03:16:04Z",
+    "amount": 76485,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "464936746",
+    "industry": "Agronegócio",
+    "state": "AM"
+  },
+  {
+    "date": "2024-04-03T22:10:58Z",
+    "amount": 48315,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "687120568",
+    "industry": "Hotelaria",
+    "state": "PI"
+  },
+  {
+    "date": "2024-02-25T03:49:57Z",
+    "amount": 47182,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "196302398",
+    "industry": "Energia",
+    "state": "GO"
+  },
+  {
+    "date": "2024-03-13T01:42:06Z",
+    "amount": 37014,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "740211252",
+    "industry": "Tecnologia",
+    "state": "SC"
+  },
+  {
+    "date": "2024-10-12T23:02:28Z",
+    "amount": 8520,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "539397307",
+    "industry": "Telecomunicações",
+    "state": "MA"
+  },
+  {
+    "date": "2024-05-11T16:26:29Z",
+    "amount": 8790,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "586372437",
+    "industry": "Construção",
+    "state": "RS"
+  },
+  {
+    "date": "2024-07-18T16:58:06Z",
+    "amount": 77824,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "493070855",
+    "industry": "Varejo",
+    "state": "PI"
+  },
+  {
+    "date": "2024-09-03T12:35:54Z",
+    "amount": 53705,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "318652936",
+    "industry": "Energia",
+    "state": "MT"
+  },
+  {
+    "date": "2024-03-14T08:15:06Z",
+    "amount": 62369,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "536059426",
+    "industry": "Transportes",
+    "state": "AM"
+  },
+  {
+    "date": "2024-03-24T05:26:02Z",
+    "amount": 55533,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "433464855",
+    "industry": "Construção",
+    "state": "MA"
+  },
+  {
+    "date": "2024-03-03T12:13:19Z",
+    "amount": 91960,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "211246789",
+    "industry": "Turismo",
+    "state": "CE"
+  },
+  {
+    "date": "2024-09-30T01:49:57Z",
+    "amount": 68810,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "293583861",
+    "industry": "Saúde",
+    "state": "PR"
+  },
+  {
+    "date": "2024-06-25T06:26:04Z",
+    "amount": 60197,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "797241152",
+    "industry": "Turismo",
+    "state": "PI"
+  },
+  {
+    "date": "2024-10-19T03:53:25Z",
+    "amount": 48144,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "500073707",
+    "industry": "Energia",
+    "state": "CE"
+  },
+  {
+    "date": "2024-09-26T21:32:39Z",
+    "amount": 52194,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "975343739",
+    "industry": "Agronegócio",
+    "state": "AM"
+  },
+  {
+    "date": "2024-07-31T15:00:33Z",
+    "amount": 58631,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "217585643",
+    "industry": "Construção",
+    "state": "PI"
+  },
+  {
+    "date": "2024-01-09T20:48:19Z",
+    "amount": 82725,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "679361575",
+    "industry": "Hotelaria",
+    "state": "SP"
+  },
+  {
+    "date": "2024-03-10T05:48:13Z",
+    "amount": 77200,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "736021126",
+    "industry": "Energia",
+    "state": "MA"
+  },
+  {
+    "date": "2024-12-22T04:05:31Z",
+    "amount": 57124,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "272186355",
+    "industry": "Tecnologia",
+    "state": "TO"
+  },
+  {
+    "date": "2024-03-18T10:01:23Z",
+    "amount": 9044,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "400710048",
+    "industry": "Agronegócio",
+    "state": "TO"
+  },
+  {
+    "date": "2024-08-13T14:16:52Z",
+    "amount": 73702,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "854243636",
+    "industry": "Agronegócio",
+    "state": "AL"
+  },
+  {
+    "date": "2024-03-30T07:42:38Z",
+    "amount": 4496,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "549452853",
+    "industry": "Agronegócio",
+    "state": "TO"
+  },
+  {
+    "date": "2024-08-25T14:19:39Z",
+    "amount": 9724,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "752494655",
+    "industry": "Agronegócio",
+    "state": "MA"
+  },
+  {
+    "date": "2024-12-02T15:22:14Z",
+    "amount": 16595,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "233473861",
+    "industry": "Agronegócio",
+    "state": "RS"
+  },
+  {
+    "date": "2024-05-20T03:36:09Z",
+    "amount": 77178,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "845806350",
+    "industry": "Tecnologia",
+    "state": "SE"
+  },
+  {
+    "date": "2024-12-16T02:54:34Z",
+    "amount": 57598,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "140807895",
+    "industry": "Turismo",
+    "state": "AM"
+  },
+  {
+    "date": "2024-01-19T21:22:27Z",
+    "amount": 24741,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "717207543",
+    "industry": "Tecnologia",
+    "state": "AL"
+  },
+  {
+    "date": "2024-09-29T13:05:30Z",
+    "amount": 7068,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "583419419",
+    "industry": "Energia",
+    "state": "MA"
+  },
+  {
+    "date": "2024-09-24T01:25:37Z",
+    "amount": 33179,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "557362704",
+    "industry": "Telecomunicações",
+    "state": "SC"
+  },
+  {
+    "date": "2024-07-03T06:11:52Z",
+    "amount": 52596,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "551984848",
+    "industry": "Telecomunicações",
+    "state": "PI"
+  },
+  {
+    "date": "2024-08-27T07:07:28Z",
+    "amount": 80129,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "609645398",
+    "industry": "Energia",
+    "state": "PA"
+  },
+  {
+    "date": "2024-10-14T15:14:28Z",
+    "amount": 15356,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "143096096",
+    "industry": "Educação",
+    "state": "MT"
+  },
+  {
+    "date": "2024-01-24T09:49:42Z",
+    "amount": 39463,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "769381514",
+    "industry": "Agronegócio",
+    "state": "AM"
+  },
+  {
+    "date": "2024-03-23T17:08:40Z",
+    "amount": 67265,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "316426351",
+    "industry": "Hotelaria",
+    "state": "AM"
+  },
+  {
+    "date": "2024-08-08T18:30:24Z",
+    "amount": 58368,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "350969916",
+    "industry": "Saúde",
+    "state": "SE"
+  },
+  {
+    "date": "2024-06-16T16:35:46Z",
+    "amount": 44637,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "199459239",
+    "industry": "Educação",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-06-18T01:21:36Z",
+    "amount": 42583,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "266738958",
+    "industry": "Turismo",
+    "state": "PI"
+  },
+  {
+    "date": "2024-06-08T20:49:35Z",
+    "amount": 86885,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "829493510",
+    "industry": "Turismo",
+    "state": "SC"
+  },
+  {
+    "date": "2024-01-30T21:57:33Z",
+    "amount": 60621,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "485340148",
+    "industry": "Telecomunicações",
+    "state": "PR"
+  },
+  {
+    "date": "2024-11-28T21:54:23Z",
+    "amount": 51873,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "219381984",
+    "industry": "Varejo",
+    "state": "PI"
+  },
+  {
+    "date": "2024-07-29T03:21:55Z",
+    "amount": 42633,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "159392014",
+    "industry": "Telecomunicações",
+    "state": "BA"
+  },
+  {
+    "date": "2024-06-18T13:25:13Z",
+    "amount": 61237,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "651101595",
+    "industry": "Telecomunicações",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-06-29T19:26:29Z",
+    "amount": 19731,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "500711302",
+    "industry": "Tecnologia",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-06-29T05:20:47Z",
+    "amount": 64593,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "772870682",
+    "industry": "Hotelaria",
+    "state": "BA"
+  },
+  {
+    "date": "2024-03-12T07:07:30Z",
+    "amount": 99486,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "555387057",
+    "industry": "Construção",
+    "state": "CE"
+  },
+  {
+    "date": "2024-08-06T01:45:16Z",
+    "amount": 27213,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "578906263",
+    "industry": "Energia",
+    "state": "PI"
+  },
+  {
+    "date": "2024-10-17T03:50:12Z",
+    "amount": 20175,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "503450471",
+    "industry": "Tecnologia",
+    "state": "PE"
+  },
+  {
+    "date": "2024-03-15T00:40:03Z",
+    "amount": 80939,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "346295326",
+    "industry": "Transportes",
+    "state": "TO"
+  },
+  {
+    "date": "2024-11-30T02:38:58Z",
+    "amount": 94770,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "845467832",
+    "industry": "Agronegócio",
+    "state": "SE"
+  },
+  {
+    "date": "2024-10-19T09:56:53Z",
+    "amount": 40341,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "524845382",
+    "industry": "Tecnologia",
+    "state": "CE"
+  },
+  {
+    "date": "2024-06-13T02:38:41Z",
+    "amount": 17211,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "602152049",
+    "industry": "Agronegócio",
+    "state": "BA"
+  },
+  {
+    "date": "2024-09-25T00:36:38Z",
+    "amount": 2902,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "202044779",
+    "industry": "Varejo",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-03-07T21:59:14Z",
+    "amount": 64337,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "792804256",
+    "industry": "Hotelaria",
+    "state": "GO"
+  },
+  {
+    "date": "2024-11-14T21:14:42Z",
+    "amount": 55588,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "558437016",
+    "industry": "Educação",
+    "state": "SC"
+  },
+  {
+    "date": "2024-11-17T18:14:49Z",
+    "amount": 81462,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "205256278",
+    "industry": "Telecomunicações",
+    "state": "SP"
+  },
+  {
+    "date": "2024-08-19T11:22:41Z",
+    "amount": 22045,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "805794441",
+    "industry": "Construção",
+    "state": "PI"
+  },
+  {
+    "date": "2024-03-09T04:39:25Z",
+    "amount": 14989,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "120471215",
+    "industry": "Tecnologia",
+    "state": "MG"
+  },
+  {
+    "date": "2024-02-29T00:32:35Z",
+    "amount": 78680,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "689541798",
+    "industry": "Turismo",
+    "state": "PI"
+  },
+  {
+    "date": "2024-10-01T16:11:10Z",
+    "amount": 85470,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "348499397",
+    "industry": "Hotelaria",
+    "state": "MA"
+  },
+  {
+    "date": "2024-08-26T14:56:36Z",
+    "amount": 13406,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "497661117",
+    "industry": "Telecomunicações",
+    "state": "RO"
+  },
+  {
+    "date": "2024-07-03T17:08:19Z",
+    "amount": 15788,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "845558093",
+    "industry": "Hotelaria",
+    "state": "MT"
+  },
+  {
+    "date": "2024-08-15T20:24:56Z",
+    "amount": 47591,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "542511133",
+    "industry": "Transportes",
+    "state": "MG"
+  },
+  {
+    "date": "2024-03-05T10:42:15Z",
+    "amount": 8155,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "136625399",
+    "industry": "Hotelaria",
+    "state": "MT"
+  },
+  {
+    "date": "2024-04-07T15:58:21Z",
+    "amount": 97361,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "415956845",
+    "industry": "Hotelaria",
+    "state": "TO"
+  },
+  {
+    "date": "2024-07-15T13:43:39Z",
+    "amount": 12389,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "540315198",
+    "industry": "Transportes",
+    "state": "MG"
+  },
+  {
+    "date": "2024-10-22T20:30:41Z",
+    "amount": 49002,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "741948623",
+    "industry": "Telecomunicações",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-01-30T03:28:15Z",
+    "amount": 33005,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "840167834",
+    "industry": "Tecnologia",
+    "state": "PI"
+  },
+  {
+    "date": "2024-02-09T19:07:21Z",
+    "amount": 11690,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "238678310",
+    "industry": "Varejo",
+    "state": "RO"
+  },
+  {
+    "date": "2024-02-26T07:16:30Z",
+    "amount": 78660,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "296383716",
+    "industry": "Educação",
+    "state": "SP"
+  },
+  {
+    "date": "2024-04-20T13:27:06Z",
+    "amount": 71608,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "754023056",
+    "industry": "Energia",
+    "state": "SE"
+  },
+  {
+    "date": "2024-09-01T20:18:57Z",
+    "amount": 77720,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "530024513",
+    "industry": "Varejo",
+    "state": "AM"
+  },
+  {
+    "date": "2024-04-17T18:48:34Z",
+    "amount": 67871,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "198202375",
+    "industry": "Construção",
+    "state": "RO"
+  },
+  {
+    "date": "2024-05-16T21:42:23Z",
+    "amount": 65846,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "772563747",
+    "industry": "Turismo",
+    "state": "PR"
+  },
+  {
+    "date": "2024-01-11T12:00:23Z",
+    "amount": 53102,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "709694444",
+    "industry": "Hotelaria",
+    "state": "BA"
+  },
+  {
+    "date": "2024-01-03T08:43:48Z",
+    "amount": 76881,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "878036648",
+    "industry": "Agronegócio",
+    "state": "CE"
+  },
+  {
+    "date": "2024-01-12T10:37:26Z",
+    "amount": 40208,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "889049588",
+    "industry": "Turismo",
+    "state": "CE"
+  },
+  {
+    "date": "2024-03-24T01:56:58Z",
+    "amount": 8068,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "879473101",
+    "industry": "Agronegócio",
+    "state": "MG"
+  },
+  {
+    "date": "2024-12-06T18:01:49Z",
+    "amount": 28190,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "265837718",
+    "industry": "Turismo",
+    "state": "SC"
+  },
+  {
+    "date": "2024-02-08T12:24:44Z",
+    "amount": 77215,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "553898252",
+    "industry": "Tecnologia",
+    "state": "AL"
+  },
+  {
+    "date": "2024-11-16T20:03:57Z",
+    "amount": 54435,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "291665766",
+    "industry": "Educação",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-03-21T17:50:00Z",
+    "amount": 79100,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "585625476",
+    "industry": "Telecomunicações",
+    "state": "PR"
+  },
+  {
+    "date": "2024-03-02T07:31:09Z",
+    "amount": 69509,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "389631016",
+    "industry": "Transportes",
+    "state": "PI"
+  },
+  {
+    "date": "2024-01-23T10:22:47Z",
+    "amount": 34219,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "128083074",
+    "industry": "Transportes",
+    "state": "RS"
+  },
+  {
+    "date": "2024-10-18T16:53:07Z",
+    "amount": 26025,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "937123244",
+    "industry": "Transportes",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-04-17T17:37:00Z",
+    "amount": 95606,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "485405864",
+    "industry": "Transportes",
+    "state": "MA"
+  },
+  {
+    "date": "2024-02-20T10:19:47Z",
+    "amount": 30005,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "425632381",
+    "industry": "Saúde",
+    "state": "MA"
+  },
+  {
+    "date": "2024-02-19T20:55:49Z",
+    "amount": 36754,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "874438521",
+    "industry": "Tecnologia",
+    "state": "SC"
+  },
+  {
+    "date": "2024-02-28T02:29:19Z",
+    "amount": 73168,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "224560550",
+    "industry": "Saúde",
+    "state": "MA"
+  },
+  {
+    "date": "2024-11-03T02:49:03Z",
+    "amount": 80074,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "985234157",
+    "industry": "Varejo",
+    "state": "BA"
+  },
+  {
+    "date": "2024-03-03T09:54:37Z",
+    "amount": 18528,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "883942421",
+    "industry": "Educação",
+    "state": "MA"
+  },
+  {
+    "date": "2024-05-31T09:45:47Z",
+    "amount": 23921,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "689956175",
+    "industry": "Turismo",
+    "state": "MG"
+  },
+  {
+    "date": "2024-11-23T13:42:15Z",
+    "amount": 23827,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "741324184",
+    "industry": "Energia",
+    "state": "MT"
+  },
+  {
+    "date": "2024-07-27T20:33:03Z",
+    "amount": 38231,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "382641707",
+    "industry": "Energia",
+    "state": "MA"
+  },
+  {
+    "date": "2024-11-05T01:27:38Z",
+    "amount": 97522,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "603592151",
+    "industry": "Educação",
+    "state": "AL"
+  },
+  {
+    "date": "2024-07-29T20:46:38Z",
+    "amount": 26011,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "473195612",
+    "industry": "Tecnologia",
+    "state": "MT"
+  },
+  {
+    "date": "2024-08-28T04:26:27Z",
+    "amount": 36690,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "747542789",
+    "industry": "Transportes",
+    "state": "PR"
+  },
+  {
+    "date": "2024-07-29T15:05:12Z",
+    "amount": 77755,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "591547217",
+    "industry": "Energia",
+    "state": "BA"
+  },
+  {
+    "date": "2024-06-20T12:45:09Z",
+    "amount": 69378,
+    "transaction_type": "deposit",
+    "currency": "EUR",
+    "account": "801364299",
+    "industry": "Transportes",
+    "state": "PI"
+  },
+  {
+    "date": "2024-05-13T03:53:39Z",
+    "amount": 74729,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "863263995",
+    "industry": "Turismo",
+    "state": "SE"
+  },
+  {
+    "date": "2024-10-21T12:34:46Z",
+    "amount": 13431,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "108873657",
+    "industry": "Hotelaria",
+    "state": "AL"
+  },
+  {
+    "date": "2024-09-24T16:05:17Z",
+    "amount": 7254,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "997787986",
+    "industry": "Tecnologia",
+    "state": "MT"
+  },
+  {
+    "date": "2024-08-20T04:48:21Z",
+    "amount": 94196,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "544056817",
+    "industry": "Educação",
+    "state": "PR"
+  },
+  {
+    "date": "2024-05-23T14:52:13Z",
+    "amount": 54509,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "158821534",
+    "industry": "Construção",
+    "state": "BA"
+  },
+  {
+    "date": "2024-07-14T08:13:06Z",
+    "amount": 97355,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "512468147",
+    "industry": "Educação",
+    "state": "GO"
+  },
+  {
+    "date": "2024-05-30T04:42:56Z",
+    "amount": 6263,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "165336496",
+    "industry": "Agronegócio",
+    "state": "SE"
+  },
+  {
+    "date": "2024-06-05T05:05:18Z",
+    "amount": 68589,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "662550949",
+    "industry": "Telecomunicações",
+    "state": "MA"
+  },
+  {
+    "date": "2024-03-13T06:17:10Z",
+    "amount": 40503,
+    "transaction_type": "deposit",
+    "currency": "GBP",
+    "account": "601134116",
+    "industry": "Agronegócio",
+    "state": "PE"
+  },
+  {
+    "date": "2024-03-15T14:15:07Z",
+    "amount": 36816,
+    "transaction_type": "deposit",
+    "currency": "BRL",
+    "account": "932170221",
+    "industry": "Educação",
+    "state": "SE"
+  },
+  {
+    "date": "2024-01-13T14:03:32Z",
+    "amount": 48378,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "512809378",
+    "industry": "Varejo",
+    "state": "AL"
+  },
+  {
+    "date": "2024-11-23T08:52:14Z",
+    "amount": 68719,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "917959117",
+    "industry": "Hotelaria",
+    "state": "AL"
+  },
+  {
+    "date": "2024-06-08T06:09:15Z",
+    "amount": 5760,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "641513518",
+    "industry": "Transportes",
+    "state": "SE"
+  },
+  {
+    "date": "2024-09-23T18:48:55Z",
+    "amount": 13877,
+    "transaction_type": "withdraw",
+    "currency": "USD",
+    "account": "981486765",
+    "industry": "Educação",
+    "state": "MT"
+  },
+  {
+    "date": "2024-05-22T10:05:11Z",
+    "amount": 36237,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "376861056",
+    "industry": "Saúde",
+    "state": "RO"
+  },
+  {
+    "date": "2024-07-16T00:18:39Z",
+    "amount": 52447,
+    "transaction_type": "deposit",
+    "currency": "USD",
+    "account": "335760028",
+    "industry": "Construção",
+    "state": "AL"
+  },
+  {
+    "date": "2024-08-30T20:35:13Z",
+    "amount": 94947,
+    "transaction_type": "withdraw",
+    "currency": "CAD",
+    "account": "344487560",
+    "industry": "Tecnologia",
+    "state": "BA"
+  },
+  {
+    "date": "2024-05-04T18:34:38Z",
+    "amount": 34762,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "633446529",
+    "industry": "Turismo",
+    "state": "SC"
+  },
+  {
+    "date": "2024-02-06T01:45:39Z",
+    "amount": 38830,
+    "transaction_type": "deposit",
+    "currency": "CAD",
+    "account": "611127794",
+    "industry": "Hotelaria",
+    "state": "PE"
+  },
+  {
+    "date": "2024-06-13T22:44:14Z",
+    "amount": 24291,
+    "transaction_type": "withdraw",
+    "currency": "GBP",
+    "account": "744183211",
+    "industry": "Telecomunicações",
+    "state": "MG"
+  },
+  {
+    "date": "2024-09-28T01:28:58Z",
+    "amount": 10816,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "881434947",
+    "industry": "Telecomunicações",
+    "state": "MT"
+  },
+  {
+    "date": "2024-08-30T11:08:54Z",
+    "amount": 17317,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "803628431",
+    "industry": "Telecomunicações",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-09-27T15:07:33Z",
+    "amount": 93047,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "993630251",
+    "industry": "Energia",
+    "state": "AL"
+  },
+  {
+    "date": "2024-04-08T07:06:09Z",
+    "amount": 18000,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "300145167",
+    "industry": "Saúde",
+    "state": "CE"
+  },
+  {
+    "date": "2024-08-28T07:33:19Z",
+    "amount": 46507,
+    "transaction_type": "deposit",
+    "currency": "JPY",
+    "account": "839708570",
+    "industry": "Saúde",
+    "state": "AL"
+  },
+  {
+    "date": "2024-11-09T21:41:10Z",
+    "amount": 54226,
+    "transaction_type": "withdraw",
+    "currency": "JPY",
+    "account": "549415070",
+    "industry": "Saúde",
+    "state": "PR"
+  },
+  {
+    "date": "2024-05-08T19:11:46Z",
+    "amount": 37349,
+    "transaction_type": "withdraw",
+    "currency": "BRL",
+    "account": "905086895",
+    "industry": "Transportes",
+    "state": "RJ"
+  },
+  {
+    "date": "2024-07-03T19:59:02Z",
+    "amount": 59447,
+    "transaction_type": "withdraw",
+    "currency": "EUR",
+    "account": "780679285",
+    "industry": "Tecnologia",
+    "state": "SE"
+  }
+]
